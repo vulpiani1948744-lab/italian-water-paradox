@@ -31,6 +31,11 @@ ones that waste the most of it?
 - Altitude does not explain the rainfall effect. Terrain relief was
   significant in 2022 but not on multi-year averages.
 
+On 2012-2022 averages the critical quadrant is dominated by the Islands
+(Cagliari, Oristano, Siracusa, Agrigento, Sassari):
+
+![Risk matrix, multi-year averages](outputs/figures/risk_matrix_scatter_multiyear.png)
+
 The full, automatically generated report is in
 [`outputs/report.md`](outputs/report.md).
 
